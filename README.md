@@ -1,6 +1,6 @@
 # Concealed (Memory Helper)
 
-Memory Helper is a machine learning-powered virtual assistant designed to help people with memory loss, amnesia, dementia, and Alzheimer's disease to remember important events in their lives, establish routines, automate home tasks, and provide a personalized guiding experience similar to a caregiving experience. 
+Memory Helper is a multi lingual machine learning-powered virtual assistant designed to help people with memory loss, amnesia, dementia, and Alzheimer's disease to remember important events in their lives, establish routines, automate home tasks, and provide a personalized guiding experience similar to a caregiving experience. 
 
 Memory Helper leverages the power of OpenAI's ChatGPT language model to provide an intuitive conversational interface that users can interact with through natural language commands. Using state-of-the-art machine learning algorithms, Memory Helper is able to understand and respond to user inputs in a way that is tailored to their unique needs and preferences.
 
