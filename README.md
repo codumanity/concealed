@@ -1,4 +1,4 @@
-# concealed (Memory Helper)
+# Concealed (Memory Helper)
 
 Memory Helper is a machine learning-powered virtual assistant designed to help people with memory loss, amnesia, dementia, and Alzheimer's disease to remember important events in their lives, establish routines, automate home tasks, and provide a personalized guiding experience similar to a caregiving experience. 
 
