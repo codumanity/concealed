@@ -1,11 +1,6 @@
-  
- ██████  ██████  ██████  ██    ██ ███    ███  █████  ███    ██ ██ ████████ ██    ██       ,
-██      ██    ██ ██   ██ ██    ██ ████  ████ ██   ██ ████   ██ ██    ██     ██  ██      0/
-██      ██    ██ ██   ██ ██    ██ ██ ████ ██ ███████ ██ ██  ██ ██    ██      ████      /7,
-██      ██    ██ ██   ██ ██    ██ ██  ██  ██ ██   ██ ██  ██ ██ ██    ██       ██     .'(
- ██████  ██████  ██████   ██████  ██      ██ ██   ██ ██   ████ ██    ██       ██    '^ / >
-                                                                                      / <
-                                                                                      `                                                                              
+![image](https://user-images.githubusercontent.com/131690059/234466195-9e2c09e4-9f4c-463e-8b88-6cdd875a5a4a.png)
+![image](https://user-images.githubusercontent.com/131690059/234466255-b3412bf3-bbca-4719-a23f-039f93c37f75.png)
+                                                                 
 # Concealed (Memory Helper)
 
 Memory Helper is a multi lingual machine learning-powered virtual assistant designed to help people with memory loss, amnesia, dementia, and Alzheimer's disease to remember important events in their lives, establish routines, automate home tasks, and provide a personalized guiding experience similar to a caregiving experience. 
