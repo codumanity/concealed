@@ -40,6 +40,4 @@ We are actively seeking financial aid and support to help us continue developing
 ## License
 
 Memory Helper is released under the Apache 2 license . Please see the LICENSE.md file for more information.
-
-## License
 The project is a child project of CodUmanity Code for Humanity All rights reserved.
