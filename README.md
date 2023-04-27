@@ -37,10 +37,6 @@ We welcome contributions to Memory Helper from developers, machine learning engi
 ## Collaborators
 <p align="center"<a href="https://github.com/FarzanehEntezari"><img src="https://avatars.githubusercontent.com/u/38597178?v=4" width="50px" alt="Farzaneh" /></a><a href="https://github.com/asmaaEzz"><img src="https://avatars.githubusercontent.com/u/22638696?v=4?" width="50px" alt="Asmaa" /></a><a href= "https://github.com/AsserAboElkhair"><img src="https://avatars.githubusercontent.com/u/26458833?v=4" width="50px" alt="Asser" /></a><a href="https://github.com/amr-elsehemy"><img src="https://avatars.githubusercontent.com/u/2354585?v==4" width="50px" alt="Asser" /></a></p>
 
-## Financial Aid
-
-We are actively seeking financial aid and support to help us continue developing Memory Helper and expanding its capabilities. If you're interested in supporting our project, please check out our DONATE.md file for more information on how to make a donation.
-
 ## License
 
 Memory Helper is released under the Apache 2 license . Please see the LICENSE.md file for more information.
