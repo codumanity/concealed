@@ -34,13 +34,7 @@ To use Memory Helper, simply sign up on our website and start interacting with t
 We welcome contributions to Memory Helper from developers, machine learning engineers, and anyone interested in helping us improve the lives of people with memory loss and related conditions. If you're interested in contributing to Memory Helper, please check out our CONTRIBUTING.md file for more information.
 
 ## Collaborators
-<a href="https://github.com/FarzanehEntezari"><img src="https://avatars.githubusercontent.com/u/38597178?v=4" width="50px" alt="Farzaneh" /></a>
-
-<a href="https://github.com/asmaaEzz"><img src="https://avatars.githubusercontent.com/u/22638696?v=4?" width="50px" alt="Asmaa" /></a>
-
-<a href= "https://github.com/AsserAboElkhair"><img src="https://avatars.githubusercontent.com/u/26458833?v=4" width="50px" alt="Asser" /></a>
-
-<a href="https://github.com/amr-elsehemy"><img src="https://avatars.githubusercontent.com/u/2354585?v=
+<p align="center"<a href="https://github.com/FarzanehEntezari"><img src="https://avatars.githubusercontent.com/u/38597178?v=4" width="50px" alt="Farzaneh" /></a><a href="https://github.com/asmaaEzz"><img src="https://avatars.githubusercontent.com/u/22638696?v=4?" width="50px" alt="Asmaa" /></a><a href= "https://github.com/AsserAboElkhair"><img src="https://avatars.githubusercontent.com/u/26458833?v=4" width="50px" alt="Asser" /></a><a href="https://github.com/amr-elsehemy"><img src="https://avatars.githubusercontent.com/u/2354585?v==4" width="50px" alt="Asser" /></a></p>
 
 ## Financial Aid
 
